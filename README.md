@@ -3,7 +3,7 @@
 Przykład jak użyć klasy jest w pliku index.php
 
 Funkcja decodeName() zwraca następującą tablice:
-
+```php
 Array
 (
     [name] => Pełna nazwa banku
@@ -19,7 +19,7 @@ Array
     [www] => strona www banku
     [province] => Województwo
 )
-
+```
 # Darowizna
 
 Jeśli ten kod pomógł ci skrócić czas pracy, możesz podziękować przekazując drobne na gorącą czekoladę :)
