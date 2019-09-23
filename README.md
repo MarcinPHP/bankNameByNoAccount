@@ -3,9 +3,9 @@
 Przykład jak użyć klasy jest w pliku index.php
 
 Funkcja decodeName() zwraca następującą tablice:
+
 Array
 (
-
     [name] => Pełna nazwa banku
     [short] => Nazwa skrócona banku
     [branch] => Typ oddziału
