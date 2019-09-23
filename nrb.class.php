@@ -15,6 +15,16 @@ class nrb {
 	}
 	
 	/**
+	 * Ustaw folder przetrzymywania pliku z danymi banków
+	 *
+	 * @param string $folder
+	 */
+	public function setAccount($folder) {
+		$this->folderData = $folder;
+	}
+	
+	
+	/**
 	 * Ustaw numer konta
 	 *
 	 * @param string $noAccount
