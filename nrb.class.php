@@ -19,7 +19,7 @@ class nrb {
 	 *
 	 * @param string $folder
 	 */
-	public function setAccount($folder) {
+	public function setFolderData($folder) {
 		$this->folderData = $folder;
 	}
 	
